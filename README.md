@@ -1,7 +1,10 @@
 # Data Scientist
 
 ### Education
-SOMETHING 
+B.S. in Political Science
+B.S. in Economics
+
+Professional Certificate in XYZ
 
 ### Work Experience
 Something big
@@ -9,3 +12,4 @@ Something big
 ### Projects
 something A
 Something B
+something C
