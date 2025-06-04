@@ -8,9 +8,9 @@ B.S. in Economics
 Professional Certificate in Data Science and Machine Learning Applied to Financial Markets
 
 ### Work Experience
-Something big
+.....
 
 ### Projects
-something A
-Something B
-something C
+.....
+.....
+
